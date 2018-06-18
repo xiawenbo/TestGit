@@ -3,4 +3,4 @@ Git is free software distributed under the GPL
 Git has mutable index called stage
 Git tracks change.
 
-whale can fly !!!@@@ to branch changed 2
+whale can fly !!!@@@ to branch changed 1
